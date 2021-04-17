@@ -1,3 +1,6 @@
+Refer: https://docs.microsoft.com/en-us/learn/modules/embedded-web-experiences/5-exercise-create-custom-teams-channel-tab
+- Build configurable-tab
+- 
 # botconfigurabletab - Microsoft Teams App
 
 Generate a Microsoft Teams application.
